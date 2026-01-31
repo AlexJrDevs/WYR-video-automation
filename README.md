@@ -1,38 +1,35 @@
-Would You Rather Automation Tool (Python)
+# 🎥 Would You Rather Automation Tool (Python)
 
-This project is a Python-based “Would You Rather” video automation tool designed to automatically generate videos using images, text, and basic video editing.
+This repository contains a **Python-based “Would You Rather” automation tool** that generates short-form videos using images, text, and simple video editing techniques.
 
-The tool uses MoviePy for video composition and editing, so you’ll need to have it installed before running the project.
+The project utilizes **MoviePy** for video composition and editing.
 
-📁 Project Structure
+---
 
-video/ – Contains example output videos demonstrating how the final generated videos should look.
+## 📁 Project Overview
 
-data.json – Shows the expected format for inputting images, text, and prompts used in the automation process.
+- **Automated Video Generation** – Creates “Would You Rather” style videos programmatically  
+- **JSON-Based Input** – Images and text prompts are configured through a JSON file  
+- **Example Outputs Included** – Sample videos are provided to demonstrate the expected final result  
 
-⚙️ Requirements
+---
 
-Python 3.x
+## 📂 File Structure
 
-moviepy (required for video editing)
+- **`video/`**  
+  Contains example output videos showing how generated videos should look.
 
-Install dependencies:
+- **`data.json`**  
+  Demonstrates the required structure for inputting text prompts and image paths.
 
+---
+
+## ⚙️ Requirements
+
+- **Python 3.x**
+- **MoviePy**
+
+Install the required dependency:
+
+```bash
 pip install moviepy
-
-🚧 Project Status
-
-Discontinued (2023)
-This project is no longer actively maintained, and no updates have been made since 2023. As a result, some features may be outdated or may not function correctly with newer Python versions or dependencies.
-
-📜 Usage & License
-
-You are free to:
-
-Use the project as-is
-
-Modify or extend it
-
-Adapt it for your own automation workflows
-
-No guarantees are provided regarding long-term compatibility or support.
