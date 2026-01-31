@@ -1,0 +1,2697 @@
+[
+    {
+        "question": "TELEPATHY BUT HEAR PEOPLE'S DESIRES",
+        "image_path": "img(1).jpg",
+        "section": 1
+    },
+    {
+        "question": "READ MINDS BUT LOSE YOUR OWN SENSE OF SELF",
+        "image_path": "img(2).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE SUPER HEALING",
+        "image_path": "img(3).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT VISIBLE SHADOW",
+        "image_path": "img(4).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE THE POWER OF INVISIBILITY AT WILL",
+        "image_path": "img(5).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY, BUT ONLY AT NIGHT",
+        "image_path": "img(6).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT IT DISRUPTS YOUR SLEEP",
+        "image_path": "img(7).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT TIME-LIMITED",
+        "image_path": "img(8).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL GRAVITY BUT FLOAT AWAY",
+        "image_path": "img(9).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT ALTER FUTURE UNPREDICTABLY",
+        "image_path": "img(10).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL MINDS BUT MERGE THOUGHTS",
+        "image_path": "img(11).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL WATER BUT UNCONTROLLABLE THIRST",
+        "image_path": "img(12).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT ARRIVE AT RANDOM ALTITUDES",
+        "image_path": "img(13).jpg",
+        "section": 1
+    },
+    {
+        "question": "INHERENT LUCK, BUT IT ATTRACTS DISASTERS",
+        "image_path": "img(14).jpg",
+        "section": 2
+    },
+    {
+        "question": "POSSESS TELEPATHY BUT HEAR DISTURBING THOUGHTS IN YOUR SLEEP",
+        "image_path": "img(15).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS X-RAY VISION BUT SEE EVERYONE NAKED",
+        "image_path": "img(16).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEKINESIS BUT ATTRACT UNWANTED ATTENTION",
+        "image_path": "img(17).jpg",
+        "section": 1
+    },
+    {
+        "question": "BECOME THE HULK BUT ANT SIZED",
+        "image_path": "img(18).jpg",
+        "section": 2
+    },
+    {
+        "question": "READ MINDS BUT HEAR CONSTANT MENTAL CHATTER",
+        "image_path": "img(19).jpg",
+        "section": 1
+    },
+    {
+        "question": "INHERENT LUCK, BUT IT LEADS TO UNFORTUNATE EVENTS",
+        "image_path": "img(20).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFTING BUT YOU FORGET YOUR TRUE FORM",
+        "image_path": "img(21).jpg",
+        "section": 1
+    },
+    {
+        "question": "FLY BUT ONLY INCHES ABOVE THE GROUND",
+        "image_path": "img(22).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN REFLEXES BUT CONSTANT MUSCLE SPASMS",
+        "image_path": "img(23).jpg",
+        "section": 1
+    },
+    {
+        "question": "PRECOGNITION BUT POWERLESS TO ACT",
+        "image_path": "img(24).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN STRENGTH BUT CONSTANT JOINT PAIN",
+        "image_path": "img(25).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFTING BUT ONLY TO INSECTS",
+        "image_path": "img(26).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME MANIPULATION BUT AGES THOSE NEAR",
+        "image_path": "img(27).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE THE POWER TO CONTROL DREAMS",
+        "image_path": "img(28).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ICE BUT FREEZE YOUR OWN LIMBS",
+        "image_path": "img(29).jpg",
+        "section": 1
+    },
+    {
+        "question": "POWER TO CONTROL INSECTS",
+        "image_path": "img(30).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME TRAVEL BUT AGE BACKWARDS DURING JUMPS",
+        "image_path": "img(31).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS TELEPATHY BUT CAN'T READ LOVED ONES' THOUGHTS",
+        "image_path": "img(32).jpg",
+        "section": 2
+    },
+    {
+        "question": "BE ABLE TO CONTROL DREAMS",
+        "image_path": "img(33).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT FEAR WARMTH",
+        "image_path": "img(34).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH BUT ONLY DURING A FULL MOON",
+        "image_path": "img(35).jpg",
+        "section": 1
+    },
+    {
+        "question": "POWER MIMICRY BUT MIMICRY CONSUMES ENERGY",
+        "image_path": "img(36).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT COMBUST SPONTANEOUSLY",
+        "image_path": "img(37).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER STRENGTH BUT HANDS SHRINK",
+        "image_path": "img(38).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS FLY AWAY DURING IMPORTANT MOMENTS",
+        "image_path": "img(39).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT ATTRACT GLITCHES",
+        "image_path": "img(40).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT YOU AGE 5 TIMES AS FAST",
+        "image_path": "img(41).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL EARTH BUT CAUSE SINKHOLES INADVERTENTLY",
+        "image_path": "img(42).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SPEED BUT SLOW PERCEPTION",
+        "image_path": "img(43).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFT BUT ECHO OTHERS' VOICES",
+        "image_path": "img(44).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL WATER BUT SUFFER CONSTANT DEHYDRATION",
+        "image_path": "img(45).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL WATER BUT FORGET THAT YOU CAN",
+        "image_path": "img(46).jpg",
+        "section": 2
+    },
+    {
+        "question": "THE ABILITY TO CHANGE APPEARANCE AT WILL",
+        "image_path": "img(47).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER STRENGTH BUT FEEL OTHERS' FATIGUE",
+        "image_path": "img(48).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEKINESIS BUT LEVITATE RANDOMLY",
+        "image_path": "img(49).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL THE ELEMENTS BUT THEY TURN AGAINST YOU",
+        "image_path": "img(50).jpg",
+        "section": 2
+    },
+    {
+        "question": "THE ABILITY TO CONTROL GRAVITY",
+        "image_path": "img(51).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFT BUT NEVER RETURN TO ORIGINAL FORM",
+        "image_path": "img(52).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ANIMALS BUT YOU TRANSFORM INTO ONE",
+        "image_path": "img(53).jpg",
+        "section": 1
+    },
+    {
+        "question": "TALK TO ANIMALS BUT HEAR THEIR DARKEST THOUGHTS",
+        "image_path": "img(54).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL DREAMS BUT BECOME TRAPPED",
+        "image_path": "img(55).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK ALL LANGUAGES BUT FORGET YOUR NATIVE TONGUE",
+        "image_path": "img(56).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT ATTRACT LIGHTNING",
+        "image_path": "img(57).jpg",
+        "section": 1
+    },
+    {
+        "question": "IMMORTALITY BUT FEEL EVERYONE'S DEATH",
+        "image_path": "img(58).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL LIGHTNING BUT YOU CAN'T RUN",
+        "image_path": "img(59).jpg",
+        "section": 1
+    },
+    {
+        "question": "FLY BUT HAVE MIGRAINES MID-FLIGHT",
+        "image_path": "img(60).jpg",
+        "section": 2
+    },
+    {
+        "question": "MIND CONTROL BUT LOSE PERSONAL MEMORIES",
+        "image_path": "img(61).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER STRENGTH BUT DAMAGED JOINTS",
+        "image_path": "img(62).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME MANIPULATION BUT IT WARPS YOUR PERCEPTION",
+        "image_path": "img(63).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS TELEPATHY BUT CAN'T CONTROL THE VOLUME",
+        "image_path": "img(64).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFT BUT UNINTENDED SHIFTS",
+        "image_path": "img(65).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK ALL LANGUAGES BUT WHISPER",
+        "image_path": "img(66).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT ONLY INVISIBLE TO ONE GENDER",
+        "image_path": "img(67).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO CONTROL THE ELEMENTS",
+        "image_path": "img(68).jpg",
+        "section": 2
+    },
+    {
+        "question": "PRECognition BUT ONLY ABOUT STRANGERS",
+        "image_path": "img(69).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL SOUND BUT DISRUPT YOUR OWN HEARING",
+        "image_path": "img(70).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELEMENTS BUT THEY RESIST YOUR COMMANDS",
+        "image_path": "img(71).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME MANIPULATION BUT AGE WITH EVERY JUMP",
+        "image_path": "img(72).jpg",
+        "section": 2
+    },
+    {
+        "question": "POWER SHARING BUT SHARE EMOTIONS",
+        "image_path": "img(73).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ELEMENTS BUT VULNERABILITY TO THEM",
+        "image_path": "img(74).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE SUPER INTELLIGENCE",
+        "image_path": "img(75).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT REVERSE AGING",
+        "image_path": "img(76).jpg",
+        "section": 2
+    },
+    {
+        "question": "THE ABILITY TO SEE THE FUTURE",
+        "image_path": "img(77).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT UNCONTROLLABLE BURSTS OF FLAMES",
+        "image_path": "img(78).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL DREAMS, BUT THEY BECOME ADDICTIVE NIGHTMARES",
+        "image_path": "img(79).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK ALL LANGUAGES BUT CHAOS THOUGHTS",
+        "image_path": "img(80).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER INTELLIGENCE BUT HEADACHES",
+        "image_path": "img(81).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER AGILITY BUT ONLY WHILE HUMMING",
+        "image_path": "img(82).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SPEED BUT IT MAKES YOU AGE FASTER",
+        "image_path": "img(83).jpg",
+        "section": 1
+    },
+    {
+        "question": "BREATHE UNDERWATER, BUT CAN'T BREATHE ON LAND",
+        "image_path": "img(84).jpg",
+        "section": 2
+    },
+    {
+        "question": "MIND CONTROL BUT GUILT FOR CONTROL",
+        "image_path": "img(85).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO CONTROL LUCK",
+        "image_path": "img(86).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELECTRICITY BUT DISRUPT NEARBY ELECTRONICS FREQUENTLY",
+        "image_path": "img(87).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS SUPERHUMAN SPEED BUT EXTREME INSOMNIA",
+        "image_path": "img(88).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT SHADOWS VISIBLE",
+        "image_path": "img(89).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPERHUMAN STRENGTH BUT CAN'T HOLD DELICATE OBJECTS",
+        "image_path": "img(90).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL THE WEATHER, BUT IT'S ALWAYS UNPREDICTABLE",
+        "image_path": "img(91).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT CLOTHES REMAIN VISIBLE",
+        "image_path": "img(92).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS RESIST OFTEN",
+        "image_path": "img(93).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL EARTH BUT ATTRACT UNDERGROUND CREATURES",
+        "image_path": "img(94).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL PLANTS BUT ATTRACT DANGEROUS FLORA",
+        "image_path": "img(95).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT CAN'T CONTROL DESTINATION",
+        "image_path": "img(96).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL DREAMS BUT ENDURE SLEEP PARALYSIS",
+        "image_path": "img(97).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT FEEL OTHERS' EMOTIONS",
+        "image_path": "img(98).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT BECOME TEMPORARILY AMNESIC",
+        "image_path": "img(99).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL PLANTS BUT ATTRACT INSECTS INCESSANTLY",
+        "image_path": "img(100).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SENSES BUT HALLUCINATE OFTEN",
+        "image_path": "img(101).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL EMOTIONS BUT NUMBNESS",
+        "image_path": "img(102).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME TRAVEL BUT AGE IN REVERSE DURING JUMPS",
+        "image_path": "img(103).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT FEAR ITS INTENSITY",
+        "image_path": "img(104).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELECTRICITY BUT FREQUENT ELECTRICAL ACCIDENTS",
+        "image_path": "img(105).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT THEY CONSTANTLY ARGUE WITH YOU",
+        "image_path": "img(106).jpg",
+        "section": 2
+    },
+    {
+        "question": "POSSESS X-RAY VISION BUT BLIND TO NORMAL VISION",
+        "image_path": "img(107).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT IT MAKES YOU DOUBT YOUR THOUGHTS",
+        "image_path": "img(108).jpg",
+        "section": 2
+    },
+    {
+        "question": "POSSESS TELEPATHY BUT HEAR EVERYONE'S THOUGHTS CONTINUOUSLY",
+        "image_path": "img(109).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL PLANTS, BUT THEY TURN AGAINST YOU EVENTUALLY",
+        "image_path": "img(110).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN SPEED BUT EXPERIENCE TIME DISTORTION",
+        "image_path": "img(111).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPERHUMAN REFLEXES BUT TWITCH UNCONTROLLABLY",
+        "image_path": "img(112).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME MANIPULATION BUT LOSE PRESENT MEMORIES",
+        "image_path": "img(113).jpg",
+        "section": 1
+    },
+    {
+        "question": "FLY BUT VERTIGO WHEN GROUNDED",
+        "image_path": "img(114).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL EARTH BUT CAUSE UNINTENDED GEOLOGICAL SHIFTS",
+        "image_path": "img(115).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ELEMENTS BUT EACH USE AGES",
+        "image_path": "img(116).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT FEAR WATER",
+        "image_path": "img(117).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL PLANTS BUT ATTRACT PLANT PESTS",
+        "image_path": "img(118).jpg",
+        "section": 2
+    },
+    {
+        "question": "POWER SHARING BUT SHARED PAIN DOUBLES",
+        "image_path": "img(119).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL SOUND BUT DISRUPT YOUR OWN SPEECH CONSTANTLY",
+        "image_path": "img(120).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFT BUT LOSE MEMORY EACH CHANGE",
+        "image_path": "img(121).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL WATER BUT INDUCE UNCONTROLLABLE FLOODS",
+        "image_path": "img(122).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT YOU'RE AFRAID OF WATER",
+        "image_path": "img(123).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS FLY AROUND RANDOMLY",
+        "image_path": "img(124).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL EARTH BUT UNINTENTIONALLY CAUSE CAVE-INS",
+        "image_path": "img(125).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL PLANTS BUT INDUCE RAPID PLANT DECAY",
+        "image_path": "img(126).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT RANDOM DESTINATIONS",
+        "image_path": "img(127).jpg",
+        "section": 1
+    },
+    {
+        "question": "POWER OF PRECOGNITION BUT VISIONS ARE UNCLEAR RIDDLES",
+        "image_path": "img(128).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK ALL LANGUAGES BUT HEAR ALL LANGUAGES",
+        "image_path": "img(129).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY, BUT ONLY WHEN NO ONE IS LOOKING",
+        "image_path": "img(130).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL WATER BUT CONSTANTLY FEEL DEHYDRATED",
+        "image_path": "img(131).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TECHNOLOGY, BUT IT CRASHES EVERY DEVICE YOU TOUCH",
+        "image_path": "img(132).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPATHY, BUT YOU CAN'T DISTINGUISH WHOSE THOUGHTS YOU HEAR",
+        "image_path": "img(133).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL MINDS BUT FEEL OTHERS' PAIN",
+        "image_path": "img(134).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL TIME BUT MEMORY LOSS AFTER JUMPS",
+        "image_path": "img(135).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPORT ANYWHERE, BUT YOU AGE A YEAR EACH TIME",
+        "image_path": "img(136).jpg",
+        "section": 2
+    },
+    {
+        "question": "MIND READING, BUT YOU CAN'T FILTER OUT OTHERS' THOUGHTS",
+        "image_path": "img(137).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO CONTROL THOUGHTS",
+        "image_path": "img(138).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH, BUT IT ONLY WORKS ON WET NOODLES",
+        "image_path": "img(139).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS RESIST",
+        "image_path": "img(140).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE THE ABILITY TO CONTROL DREAMS",
+        "image_path": "img(141).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO CONTROL THE WEATHER",
+        "image_path": "img(142).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN STRENGTH BUT CONSTANTLY DESTROY YOUR POSSESSIONS",
+        "image_path": "img(143).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL SOUND BUT DISRUPT YOUR OWN SPEECH",
+        "image_path": "img(144).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL DREAMS BUT THEY MAKE YOU PARANOID",
+        "image_path": "img(145).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT FEAR HEAT",
+        "image_path": "img(146).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFT BUT WEAKENED IMMUNE SYSTEM",
+        "image_path": "img(147).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS X-RAY VISION BUT SEE ONLY THE INSIDES OF ANIMALS",
+        "image_path": "img(148).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE THE POWER OF POWER MIMICRY",
+        "image_path": "img(149).jpg",
+        "section": 1
+    },
+    {
+        "question": "BREATHE UNDERWATER, BUT YOU CAN'T BREATHE AIR",
+        "image_path": "img(150).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT FLEA MAGNET",
+        "image_path": "img(151).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT IT DRAINS YOUR ENERGY",
+        "image_path": "img(152).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ICE BUT SUFFER FROM CHRONIC COLD",
+        "image_path": "img(153).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL GRAVITY BUT ATTRACT OBJECTS TO YOU",
+        "image_path": "img(154).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELEMENTS BUT WEAKENED BY THEM",
+        "image_path": "img(155).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL WATER BUT THIRST INTENSIFIES",
+        "image_path": "img(156).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH BUT IT CAUSES YOU PHYSICAL PAIN",
+        "image_path": "img(157).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT WHISPERS ARE AMPLIFIED",
+        "image_path": "img(158).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME MANIPULATION BUT LOSE TRACK OF PRESENT TIME",
+        "image_path": "img(159).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME CONTROL BUT CAN'T AGE DURING JUMPS",
+        "image_path": "img(160).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELECTRICITY BUT ELECTRIFY YOUR SURROUNDINGS",
+        "image_path": "img(161).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFT BUT YOU FORGET YOUR TRUE FORM",
+        "image_path": "img(162).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT BUT SCRAMBLE SURROUNDINGS",
+        "image_path": "img(163).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT NIGHTMARES",
+        "image_path": "img(164).jpg",
+        "section": 2
+    },
+    {
+        "question": "THE ABILITY TO SPEAK AND UNDERSTAND ALL LANGUAGES",
+        "image_path": "img(165).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT HEAR OTHERS' THOUGHTS TOO",
+        "image_path": "img(166).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL EMOTIONS BUT AMPLIFY OTHERS'",
+        "image_path": "img(167).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL DREAMS BUT THEY CONTROL YOU",
+        "image_path": "img(168).jpg",
+        "section": 2
+    },
+    {
+        "question": "FLIGHT BUT YOU BECOME MOTION SICK EASILY",
+        "image_path": "img(169).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEKINESIS BUT IT CAUSES YOU TO FLOAT UNCONTROLLABLY",
+        "image_path": "img(170).jpg",
+        "section": 2
+    },
+    {
+        "question": "POWER SHARING BUT GIVE UP ONE POWER PERMANENTLY",
+        "image_path": "img(171).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL WATER BUT CONSTANTLY SOAKED IN YOUR OWN PRESENCE",
+        "image_path": "img(172).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT BUT NAUSEA LINGERS",
+        "image_path": "img(173).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT COLD INTOLERANCE",
+        "image_path": "img(174).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ICE BUT CREATE BLIZZARDS UNINTENTIONALLY",
+        "image_path": "img(175).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS TELEPATHY BUT CAN'T FILTER THOUGHTS",
+        "image_path": "img(176).jpg",
+        "section": 2
+    },
+    {
+        "question": "ELASTICITY BUT LIMBS GET STUCK STRETCHED",
+        "image_path": "img(177).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME MANIPULATION BUT IT DISRUPTS YOUR SLEEP",
+        "image_path": "img(178).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT SCRAMBLE SIGNALS",
+        "image_path": "img(179).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT LOUD INVISIBLE FOOTSTEPS",
+        "image_path": "img(180).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER INTELLIGENCE BUT CAN'T COMMUNICATE VERBALLY",
+        "image_path": "img(181).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFT BUT MERGE TRAITS PERMANENTLY",
+        "image_path": "img(182).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT MEOW",
+        "image_path": "img(183).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER SPEED BUT CAN'T STOP",
+        "image_path": "img(184).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE INVISIBILITY BUT ONLY WHEN NO ONE'S LOOKING",
+        "image_path": "img(185).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TIME, BUT YOU CAN'T RETURN TO THE PRESENT",
+        "image_path": "img(186).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL WATER BUT UNCONTROLLABLE WATERWORKS",
+        "image_path": "img(187).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE POWER TO CONTROL FIRE",
+        "image_path": "img(188).jpg",
+        "section": 2
+    },
+    {
+        "question": "POSSESS TELEPATHY BUT CAN'T TURN IT OFF AT WILL",
+        "image_path": "img(189).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS X-RAY VISION BUT SEE THROUGH YOUR OWN EYES",
+        "image_path": "img(190).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL EMOTIONS BUT EMOTIONAL INSTABILITY",
+        "image_path": "img(191).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT ATTRACT INSECTS",
+        "image_path": "img(192).jpg",
+        "section": 2
+    },
+    {
+        "question": "READ MINDS BUT CAN'T TURN IT OFF",
+        "image_path": "img(193).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT CAN'T SEE WHILE INVISIBLE",
+        "image_path": "img(194).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME MANIPULATION BUT IT ATTRACTS TIME-TRAVELING THREATS",
+        "image_path": "img(195).jpg",
+        "section": 1
+    },
+    {
+        "question": "READ MINDS BUT BECOME OVERWHELMED BY OTHERS' EMOTIONS",
+        "image_path": "img(196).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN SPEED BUT UNABLE TO STAND STILL",
+        "image_path": "img(197).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT RISK BURNING YOURSELF ACCIDENTALLY",
+        "image_path": "img(198).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH, BUT IT ONLY WORKS ON MARSHMALLOWS",
+        "image_path": "img(199).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPERHUMAN STRENGTH BUT UNCONTROLLABLE RAGE",
+        "image_path": "img(200).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT THEY IGNORE YOU",
+        "image_path": "img(201).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME MANIPULATION BUT IT ATTRACTS DANGER",
+        "image_path": "img(202).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE THE ABILITY TO STOP TIME",
+        "image_path": "img(203).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER AGILITY, BUT YOU CAN'T STAND STILL",
+        "image_path": "img(204).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL MINDS BUT SHARE EMOTIONS",
+        "image_path": "img(205).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS MIND CONTROL BUT LOSE EMPATHY TOWARDS OTHERS",
+        "image_path": "img(206).jpg",
+        "section": 2
+    },
+    {
+        "question": "X-RAY VISION BUT CAN'T TURN IT OFF",
+        "image_path": "img(207).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK ALL LANGUAGES BUT MUTE TO HUMANS",
+        "image_path": "img(208).jpg",
+        "section": 2
+    },
+    {
+        "question": "IMMORTALITY BUT ENDURE ETERNAL BOREDOM",
+        "image_path": "img(209).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS REBEL AT TIMES",
+        "image_path": "img(210).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE TIME MANIPULATION ABILITY",
+        "image_path": "img(211).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT CHANGE HISTORY UNKNOWINGLY",
+        "image_path": "img(212).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN SPEED BUT SUFFER FROM UNCONTROLLABLE VIBRATIONS",
+        "image_path": "img(213).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE THE POWER OF PRECOGNITION",
+        "image_path": "img(214).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME MANIPULATION BUT IRREVERSIBLE EFFECTS ON MEMORY",
+        "image_path": "img(215).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE THE POWER TO CONTROL FRICTION",
+        "image_path": "img(216).jpg",
+        "section": 2
+    },
+    {
+        "question": "THE ABILITY TO CONTROL LUCK",
+        "image_path": "img(217).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT ATTRACT MALFUNCTIONS",
+        "image_path": "img(218).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT SINGE SURROUNDINGS",
+        "image_path": "img(219).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL EARTH BUT SUFFER FROM CHRONIC BACK PAIN",
+        "image_path": "img(220).jpg",
+        "section": 2
+    },
+    {
+        "question": "FLY BUT ONLY AT A SNAIL'S PACE",
+        "image_path": "img(221).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE THE POWER TO MANIPULATE SOUND",
+        "image_path": "img(222).jpg",
+        "section": 2
+    },
+    {
+        "question": "MIND READING, BUT YOU HEAR EVERYONE'S THOUGHTS AT ONCE",
+        "image_path": "img(223).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL SOUND BUT SUFFER FROM TINNITUS",
+        "image_path": "img(224).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN SPEED BUT UNCONTROLLABLE TIME SKIPS",
+        "image_path": "img(225).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER INTELLIGENCE BUT ENDURE ETERNAL BOREDOM",
+        "image_path": "img(226).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH BUT IT CAUSES MUSCLE SPASMS",
+        "image_path": "img(227).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL WATER BUT ATTRACT AQUATIC CREATURES UNCONTROLLABLY",
+        "image_path": "img(228).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SPEED BUT CAUSE TREMORS",
+        "image_path": "img(229).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT YOU CAN'T CONTROL THE DESTINATION",
+        "image_path": "img(230).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFTING BUT UNCONTROLLABLE SNEEZES CHANGE FORM",
+        "image_path": "img(231).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT BE ICE-SENSITIVE",
+        "image_path": "img(232).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SPEED BUT SLOW REFLEXES",
+        "image_path": "img(233).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER STRENGTH BUT IT MAKES YOU CLUMSY",
+        "image_path": "img(234).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL PLANTS BUT CONSTANT POLLEN ALLERGIES",
+        "image_path": "img(235).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT DISRUPT NATURAL WORLD",
+        "image_path": "img(236).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ANIMALS, BUT THEY'RE ALWAYS REBELLIOUS",
+        "image_path": "img(237).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO GENERATE AND CONTROL FIRE",
+        "image_path": "img(238).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPATHY BUT ALL THOUGHTS SOUND ANGRY",
+        "image_path": "img(239).jpg",
+        "section": 1
+    },
+    {
+        "question": "POWER MIMICRY BUT MIMICRY FADES WITH USE",
+        "image_path": "img(240).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ICE BUT FREEZE BODY PARTS UNINTENTIONALLY",
+        "image_path": "img(241).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE POWER TO CONTROL LIGHT",
+        "image_path": "img(242).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL EARTH BUT CAUSE LOCALIZED TREMORS UNINTENTIONALLY",
+        "image_path": "img(243).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ELECTRICITY BUT DISRUPT NEARBY ELECTRONICS",
+        "image_path": "img(244).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE AIR MANIPULATION BUT UNCONTROLLABLE SNEEZING",
+        "image_path": "img(245).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ICE BUT FREEZE YOUR OWN SURROUNDINGS ACCIDENTALLY",
+        "image_path": "img(246).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORTATION BUT IT DRAINS YOUR ENERGY",
+        "image_path": "img(247).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT HEAR OWN DARK DESIRES",
+        "image_path": "img(248).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ANIMALS, BUT THEY BECOME OBSESSED WITH YOU",
+        "image_path": "img(249).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND READING BUT BLUR BETWEEN VOICES",
+        "image_path": "img(250).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN SPEED BUT UNCONTROLLABLE TIME DILATION",
+        "image_path": "img(251).jpg",
+        "section": 1
+    },
+    {
+        "question": "READ MINDS BUT BECOME OVERWHELMED BY VOICES",
+        "image_path": "img(252).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT BUT LOSE CLOTHES",
+        "image_path": "img(253).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL WATER BUT DEHYDRATE SURROUNDINGS",
+        "image_path": "img(254).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN STRENGTH BUT DESTROY OBJECTS YOU TOUCH",
+        "image_path": "img(255).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL SOUND BUT DEAFEN SELF",
+        "image_path": "img(256).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME TRAVEL BUT BECOME STUCK IN A LOOP",
+        "image_path": "img(257).jpg",
+        "section": 1
+    },
+    {
+        "question": "POWER MIMICRY BUT UNCONTROLLABLE SHIFTS",
+        "image_path": "img(258).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL SOUND BUT SUFFER FROM DEAFENING SILENCE",
+        "image_path": "img(259).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL MINDS BUT LOSE YOUR OWN",
+        "image_path": "img(260).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPATHY BUT HEAR OTHERS' WORST THOUGHTS",
+        "image_path": "img(261).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY, BUT ONLY IN COMPLETE DARKNESS",
+        "image_path": "img(262).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SPEED BUT FORGET PREVIOUS DAY",
+        "image_path": "img(263).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT FORGET YOUR OWN IDENTITY DURING JUMPS",
+        "image_path": "img(264).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT SHORT-CIRCUITS",
+        "image_path": "img(265).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT FORGET YOUR NAME EACH TIME",
+        "image_path": "img(266).jpg",
+        "section": 2
+    },
+    {
+        "question": "READ MINDS BUT CAN't DISTINGUISH BETWEEN THOUGHTS",
+        "image_path": "img(267).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER AGILITY, BUT YOU TRIP OVER YOUR OWN FEET OFTEN",
+        "image_path": "img(268).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE THE ABILITY TO BECOME INVISIBLE TO MACHINES",
+        "image_path": "img(269).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT SQUAWK",
+        "image_path": "img(270).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPATHY BUT YOU CAN'T TURN IT OFF",
+        "image_path": "img(271).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL GRAVITY BUT FEEL WEIGHTLESS OFTEN",
+        "image_path": "img(272).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL MINDS BUT THEY KNOW YOU'RE CONTROLLING THEM",
+        "image_path": "img(273).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO READ MINDS",
+        "image_path": "img(274).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH BUT IT AGES YOU RAPIDLY",
+        "image_path": "img(275).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE THE POWER TO MANIPULATE EMOTIONS",
+        "image_path": "img(276).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELECTRICITY BUT CONSTANT ELECTROMAGNETIC INTERFERENCE",
+        "image_path": "img(277).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER HEARING BUT CAN'T FILTER SOUNDS",
+        "image_path": "img(278).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE THE ABILITY TO TIME TRAVEL",
+        "image_path": "img(279).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT IT GIVES YOU CONSTANT MIGRAINES",
+        "image_path": "img(280).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL PLANTS BUT CAN'T CONTROL OVERGROWTH",
+        "image_path": "img(281).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ICE BUT ACCIDENTALLY FREEZE PEOPLE NEARBY",
+        "image_path": "img(282).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPATHY, BUT EVERYONE'S THOUGHTS ARE IN A FOREIGN LANGUAGE",
+        "image_path": "img(283).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER SPEED BUT IT AGES YOUR SKIN PREMATURELY",
+        "image_path": "img(284).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELECTRICITY BUT SUFFER FREQUENT POWER OUTAGES",
+        "image_path": "img(285).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT IT ATTRACTS INSECTS",
+        "image_path": "img(286).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS REBEL UNPREDICTABLY",
+        "image_path": "img(287).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPATHY BUT INNER VOICES OVERWHELM",
+        "image_path": "img(288).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH, BUT IT'S ONLY ACTIVE UNDERWATER",
+        "image_path": "img(289).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT MEMORY RESETS AFTER EACH JUMP",
+        "image_path": "img(290).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER HEARING BUT PSYCHIC NOISE",
+        "image_path": "img(291).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT FEAR SMOKE INHALATION",
+        "image_path": "img(292).jpg",
+        "section": 20
+    },
+    {
+        "question": "TELEPATHY BUT EVERYONE HEARS THOUGHTS",
+        "image_path": "img(293).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPERHUMAN SPEED BUT CAN'T SLOW DOWN",
+        "image_path": "img(294).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT PERMANENT BODY ODOR",
+        "image_path": "img(295).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL GRAVITY BUT STUCK UPSIDE-DOWN",
+        "image_path": "img(296).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT BECOME BLIND WHILE INVISIBLE",
+        "image_path": "img(297).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT BURN SCARS REMAIN",
+        "image_path": "img(298).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE TELEPORTATION ABILITY TO INSTANTLY TRAVEL ANYWHERE",
+        "image_path": "img(299).jpg",
+        "section": 1
+    },
+    {
+        "question": "FLY BUT WINGS GROW BACK SLOWLY",
+        "image_path": "img(300).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE PHOTOGRAPHIC REFLEXES",
+        "image_path": "img(301).jpg",
+        "section": 1
+    },
+    {
+        "question": "POWER MIMICRY BUT MIMICRY INDUCES SLEEP",
+        "image_path": "img(302).jpg",
+        "section": 2
+    },
+    {
+        "question": "MIND READING BUT IT MAKES YOU PARANOID",
+        "image_path": "img(303).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT IT DISRUPTS YOUR BANK ACCOUNT",
+        "image_path": "img(304).jpg",
+        "section": 2
+    },
+    {
+        "question": "GAIN TELEKINESIS BUT UNCONTROLLABLE OBJECTS FLY AROUND",
+        "image_path": "img(305).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPATHY BUT EMOTIONS OVERWHELM YOU",
+        "image_path": "img(306).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT INSOMNIA INCREASES",
+        "image_path": "img(307).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT FORGET OWN THOUGHTS",
+        "image_path": "img(308).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORTATION BUT IT SCRAMBLES YOUR SURROUNDINGS",
+        "image_path": "img(309).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL GRAVITY BUT LOSE YOUR SENSE OF BALANCE",
+        "image_path": "img(310).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE NIGHT VISION",
+        "image_path": "img(311).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TIME BUT AGE TWICE AS FAST WHILE USING IT",
+        "image_path": "img(312).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL PLANTS BUT ATTRACT INSECTS CONSTANTLY",
+        "image_path": "img(313).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL EMOTIONS BUT EMOTIONAL NUMBNESS",
+        "image_path": "img(314).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SPEED BUT ONLY WHEN NAKED",
+        "image_path": "img(315).jpg",
+        "section": 1
+    },
+    {
+        "question": "INFALLIBLE LUCK BUT LOSE ALL MEMORIES",
+        "image_path": "img(316).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEKINESIS BUT ATTRACT MIGRAINES",
+        "image_path": "img(317).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPATHY BUT IT EXPOSES YOUR DARKEST THOUGHTS",
+        "image_path": "img(318).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT ATTRACT FIRE-RELATED ACCIDENTS",
+        "image_path": "img(319).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ELEMENTS BUT LOSE CONTROL OFTEN",
+        "image_path": "img(320).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL DREAMS BUT THEY BECOME ENDLESS NIGHTMARES",
+        "image_path": "img(321).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TIME BUT AGE DOUBLE",
+        "image_path": "img(322).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE SUPER SPEED",
+        "image_path": "img(323).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT ALWAYS LOSE SOMETHING VALUABLE",
+        "image_path": "img(324).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SPEED BUT IT MAKES YOU EXHAUSTED",
+        "image_path": "img(325).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPORT BUT TEMPORARY AMNESIA",
+        "image_path": "img(326).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT SET YOURSELF ON FIRE UNINTENTIONALLY",
+        "image_path": "img(327).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS AURA MANIPULATION BUT ATTRACT UNWANTED ATTENTION",
+        "image_path": "img(328).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT LOSS OF SPEECH",
+        "image_path": "img(329).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPORT BUT RANDOM LOCATIONS",
+        "image_path": "img(230).jpg",
+        "section": 2
+    },
+    {
+        "question": "MIND READING BUT YOU CAN'T TURN IT OFF",
+        "image_path": "img(231).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO USE THE POWER OF TELEPATHY",
+        "image_path": "img(232).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT VISIBLE ONLY TO ANIMALS",
+        "image_path": "img(233).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFT BUT UNCONTROLLABLE CHANGES",
+        "image_path": "img(234).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ICE BUT RISK FREEZING YOUR SURROUNDINGS",
+        "image_path": "img(235).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEKINESIS BUT IT GIVES YOU CONSTANT NOSEBLEEDS",
+        "image_path": "img(236).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFT BUT ANIMAL INSTINCTS",
+        "image_path": "img(237).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS FLY AWAY AT RANDOM TIMES",
+        "image_path": "img(238).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL EARTH BUT CREATE EARTHQUAKES INVOLUNTARILY",
+        "image_path": "img(239).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL DREAMS BUT INSOMNIA",
+        "image_path": "img(240).jpg",
+        "section": 2
+    },
+    {
+        "question": "READ MINDS BUT HEAR EVERYONE'S THOUGHTS SIMULTANEOUSLY",
+        "image_path": "img(341).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT ALWAYS LEAVE BEHIND INVISIBLE FOOTPRINTS",
+        "image_path": "img(342).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME TRAVEL BUT UNPREDICTABLE TIME PERIODS",
+        "image_path": "img(343).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL DREAMS BUT THEY INVADE YOUR WAKING LIFE",
+        "image_path": "img(344).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPESHIFT INTO ANIMALS BUT STRUGGLE TO REVERT",
+        "image_path": "img(345).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPERHUMAN SPEED BUT RAPID AGING",
+        "image_path": "img(346).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL LIGHTNING BUT CONSTANT STATIC SHOCKS",
+        "image_path": "img(347).jpg",
+        "section": 1
+    },
+    {
+        "question": "THE POWER TO CONTROL ICE",
+        "image_path": "img(348).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT NEVER THE RIGHT DESTINATION",
+        "image_path": "img(349).jpg",
+        "section": 1
+    },
+    {
+        "question": "READ MINDS BUT CAN'T DISTINGUISH BETWEEN THOUGHTS",
+        "image_path": "img(350).jpg",
+        "section": 2
+    },
+    {
+        "question": "THE ABILITY TO STOP TIME",
+        "image_path": "img(351).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPATHY BUT CAN'T CONTROL VOLUME",
+        "image_path": "img(352).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL EMOTIONS BUT NUMBNESS ENSUES",
+        "image_path": "img(353).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT IT DRAINS YOUR BANK ACCOUNT",
+        "image_path": "img(354).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT BURN SCARS",
+        "image_path": "img(355).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ELECTRICITY BUT SHOCK YOURSELF FREQUENTLY",
+        "image_path": "img(356).jpg",
+        "section": 2
+    },
+    {
+        "question": "POSSESS ASTRAL AWARENESS BUT CONSTANT SLEEP DEPRIVATION",
+        "image_path": "img(357).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFT BUT ITCHES UNCONTROLLABLY",
+        "image_path": "img(358).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFT BUT CAN'T TURN HUMAN",
+        "image_path": "img(359).jpg",
+        "section": 1
+    },
+    {
+        "question": "READ MINDS BUT BROADCAST YOUR OWN THOUGHTS",
+        "image_path": "img(360).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT CAN'T COMMUNICATE WITH HUMANS",
+        "image_path": "img(361).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPORTATION BUT LOSE A SENSE EACH TIME",
+        "image_path": "img(362).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE INFALLIBLE LUCK",
+        "image_path": "img(363).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER HEARING BUT AMPLIFIED AGONY",
+        "image_path": "img(364).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPATHY BUT CAN'T TURN IT OFF",
+        "image_path": "img(365).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT GLOW IN THE DARK",
+        "image_path": "img(366).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT THEY SPEAK TOO LOUDLY",
+        "image_path": "img(367).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER INTELLIGENCE BUT CHRONIC MIGRAINES",
+        "image_path": "img(368).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER INTELLIGENCE BUT INSOMNIA WORSENS",
+        "image_path": "img(369).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO CONTROL TECHNOLOGY",
+        "image_path": "img(370).jpg",
+        "section": 2
+    },
+    {
+        "question": "TALK TO ANIMALS, BUT THEY NEVER STOP GOSSIPING",
+        "image_path": "img(371).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT HEAR THEIR PAIN",
+        "image_path": "img(372).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL WATER BUT THIRST",
+        "image_path": "img(373).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TIME BUT ONLY IN DREAMS",
+        "image_path": "img(374).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT ITCHY ALL THE TIME",
+        "image_path": "img(375).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO CONTROL PLANT LIFE",
+        "image_path": "img(376).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH BUT CLUMSY",
+        "image_path": "img(377).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE POWER TO CONTROL TECHNOLOGY",
+        "image_path": "img(378).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER INTELLIGENCE, BUT YOU CAN'T COMMUNICATE YOUR IDEAS",
+        "image_path": "img(379).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS X-RAY VISION BUT SEE THROUGH EVERYTHING INVOLUNTARILY",
+        "image_path": "img(380).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL DREAMS BUT SUFFER INSOMNIA",
+        "image_path": "img(381).jpg",
+        "section": 1
+    },
+    {
+        "question": "READ MINDS BUT SHARE THOUGHTS RANDOMLY",
+        "image_path": "img(382).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT VISIBLE IN MIRRORS",
+        "image_path": "img(383).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL MINDS BUT ADOPT THEIR PAIN",
+        "image_path": "img(384).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SENSES BUT THEY MAKE YOU EASILY OVERWHELMED",
+        "image_path": "img(385).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL DREAMS BUT SHARE NIGHTMARES",
+        "image_path": "img(386).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT LEAVES FOOTPRINTS",
+        "image_path": "img(387).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE POWER TO CONTROL TIME PERCEPTION",
+        "image_path": "img(388).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFT BUT STUCK IN LAST FORM",
+        "image_path": "img(389).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS RESIST MANIPULATION",
+        "image_path": "img(390).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK ALL LANGUAGES BUT CAN'T LIE",
+        "image_path": "img(391).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE POWER TO CONTROL WATER",
+        "image_path": "img(392).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL WATER BUT FEAR HEIGHTS",
+        "image_path": "img(393).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL WATER BUT DEVELOP HYDROPHOBIA",
+        "image_path": "img(394).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT WHISPERS HEARD",
+        "image_path": "img(395).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE POWER TO CONTROL MEMORIES",
+        "image_path": "img(396).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELEMENTS BUT VULNERABLE TO THEM",
+        "image_path": "img(397).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS TELEPATHY BUT OVERWHELMED BY VOICES",
+        "image_path": "img(398).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT ITCH UNCONTROLLABLY",
+        "image_path": "img(399).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT UNCONTROLLABLE PYROMANIA",
+        "image_path": "img(400).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS REVOLT",
+        "image_path": "img(401).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT DROOL",
+        "image_path": "img(402).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE SHAPE-SHIFTING POWER",
+        "image_path": "img(403).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT CONSTANTLY CRAVE ATTENTION",
+        "image_path": "img(404).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE ELASTICITY LIKE RUBBER",
+        "image_path": "img(405).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ELEMENTS BUT ALLERGIC TO THEM",
+        "image_path": "img(406).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN STRENGTH BUT DECREASED LIFESPAN",
+        "image_path": "img(407).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS RANDOMLY MOVE",
+        "image_path": "img(408).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER HEALING BUT FEEL OTHERS' PAIN",
+        "image_path": "img(409).jpg",
+        "section": 1
+    },
+    {
+        "question": "PRECOGNITION BUT NEVER OWN FUTURE",
+        "image_path": "img(410).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME TRAVEL BUT CAN'T CONTROL WHEN OR WHERE",
+        "image_path": "img(411).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL WATER BUT ATTRACT WATER-BASED DISASTERS",
+        "image_path": "img(412).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELEMENTS BUT PAIN WITH IT",
+        "image_path": "img(413).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL MINDS BUT YOU FEEL THEIR PHYSICAL PAIN",
+        "image_path": "img(414).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFTING BUT YOU CAN'T CONTROL THE FORM",
+        "image_path": "img(415).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT LOSE COLOR VISION",
+        "image_path": "img(416).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE X-RAY VISION",
+        "image_path": "img(417).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT BURNS SCAR INTERNALLY",
+        "image_path": "img(418).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT SMELL LIKE SMOKE",
+        "image_path": "img(419).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT IT TRIGGERS MIGRAINES",
+        "image_path": "img(420).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE SUPER ELASTIC",
+        "image_path": "img(421).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL SOUND BUT GENERATE CACOPHONOUS NOISE CONSTANTLY",
+        "image_path": "img(422).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME MANIPULATION BUT FORGET PRESENT",
+        "image_path": "img(423).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ELECTRICITY BUT CAUSE ELECTRICAL INTERFERENCE",
+        "image_path": "img(424).jpg",
+        "section": 2
+    },
+    {
+        "question": "POWER MIMICRY BUT FORGET YOUR OWN ABILITIES",
+        "image_path": "img(425).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER SPEED, BUT YOU CONSTANTLY BREAK THE SOUND BARRIER",
+        "image_path": "img(426).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL WATER BUT SUFFER FROM CHRONIC DEHYDRATION",
+        "image_path": "img(427).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL MINDS BUT THEY CONTROL YOUR ACTIONS",
+        "image_path": "img(428).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH BUT IT CAUSES MEMORY LOSS",
+        "image_path": "img(429).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT CAN'T INTERACT WITH THE PAST",
+        "image_path": "img(430).jpg",
+        "section": 2
+    },
+    {
+        "question": "SHAPE-SHIFTING BUT FORGET ORIGINAL SELF",
+        "image_path": "img(431).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFTING BUT YOU CAN'T RETURN TO YOUR ORIGINAL FORM",
+        "image_path": "img(432).jpg",
+        "section": 2
+    },
+    {
+        "question": "POSSESS TELEPATHY BUT CAN'T SLEEP DUE TO MENTAL NOISE",
+        "image_path": "img(433).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT LOSE CONTROL",
+        "image_path": "img(434).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT TECH ALLERGIES",
+        "image_path": "img(435).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS X-RAY VISION BUT SEE ONLY THE INSIDES OF OBJECTS",
+        "image_path": "img(436).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE THE POWER TO CONTROL THOUGHTS",
+        "image_path": "img(437).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT IGNITE WHEN EMOTIONALLY CHARGED",
+        "image_path": "img(438).jpg",
+        "section": 2
+    },
+    {
+        "question": "IMMORTALITY BUT INANIMATE MOMENTS",
+        "image_path": "img(439).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL MINDS BUT AMNESIA",
+        "image_path": "img(440).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SPEED BUT EXHAUSTION",
+        "image_path": "img(441).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT YOU CAN'T TURN IT OFF",
+        "image_path": "img(442).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT ATTRACT VIRUSES",
+        "image_path": "img(443).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL PLANTS BUT ATTRACT AGGRESSIVE PLANT LIFE",
+        "image_path": "img(444).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEKINESIS BUT OBJECTS RANDOMLY MOVE AROUND YOU",
+        "image_path": "img(445).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER SPEED BUT IT AGES YOU RAPIDLY",
+        "image_path": "img(446).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT LOSE YOUR SENSE OF DIRECTION",
+        "image_path": "img(447).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ICE BUT CREATE UNCONTROLLABLE ICE STORMS",
+        "image_path": "img(448).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SENSES BUT UNABLE TO CLOSE EYES OR EARS",
+        "image_path": "img(449).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER INTELLIGENCE BUT FEAR OF TOUCH",
+        "image_path": "img(450).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL LIGHT BUT BECOME TEMPORARILY BLIND IN DAYLIGHT",
+        "image_path": "img(451).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER STRENGTH BUT UNCONTROLLABLE SNEEZING",
+        "image_path": "img(452).jpg",
+        "section": 2
+    },
+    {
+        "question": "TALK TO ANIMALS, BUT THEY WON'T STOP COMPLAINING",
+        "image_path": "img(453).jpg",
+        "section": 1
+    },
+    {
+        "question": "HAVE A PERFECT PHOTOGRAPHIC MEMORY",
+        "image_path": "img(454).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME CONTROL BUT LOSE MEMORIES DURING JUMPS",
+        "image_path": "img(455).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT IT ALTERS YOUR PERSONAL HISTORY",
+        "image_path": "img(456).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT SET YOURSELF ON FIRE ACCIDENTALLY",
+        "image_path": "img(457).jpg",
+        "section": 1
+    },
+    {
+        "question": "FLY AT WILL BUT SUFFER EXTREME MOTION SICKNESS",
+        "image_path": "img(458).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL SOUND BUT HEAR CONSTANT NOISE POLLUTION",
+        "image_path": "img(459).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO CONTROL ICE",
+        "image_path": "img(460).jpg",
+        "section": 2
+    },
+    {
+        "question": "BE ABLE TO CREATE FORCE FIELDS",
+        "image_path": "img(461).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFTING, BUT YOU CAN'T CHOOSE YOUR FORM",
+        "image_path": "img(462).jpg",
+        "section": 2
+    },
+    {
+        "question": "FLY BUT LOSE ABILITY TO WALK",
+        "image_path": "img(463).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL EARTH BUT CAUSE MASSIVE GEOLOGICAL UPHEAVALS",
+        "image_path": "img(464).jpg",
+        "section": 2
+    },
+    {
+        "question": "POSSESS X-RAY VISION BUT CONSTANTLY SEE THROUGH YOUR OWN BODY",
+        "image_path": "img(465).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO CONTROL EMOTIONS",
+        "image_path": "img(466).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER HEARING, BUT IT'S ALWAYS TOO LOUD",
+        "image_path": "img(467).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL FIRE BUT IT MAKES YOU VULNERABLE TO COLD",
+        "image_path": "img(468).jpg",
+        "section": 2
+    },
+    {
+        "question": "PERFECT MEMORY BUT RELIVE YOUR WORST MEMORY DAILY",
+        "image_path": "img(469).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT AGE RAPIDLY DURING JUMPS",
+        "image_path": "img(470).jpg",
+        "section": 2
+    },
+    {
+        "question": "IMMORTALITY BUT FORGET PAST LIVES",
+        "image_path": "img(471).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK ALL LANGUAGES BUT YOU CAN't UNDERSTAND ANY",
+        "image_path": "img(472).jpg",
+        "section": 2
+    },
+    {
+        "question": "ACQUIRE INVISIBILITY BUT UNCONTROLLABLE FLATULENCE",
+        "image_path": "img(473).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER SPEED BUT SLOWED PERCEPTION",
+        "image_path": "img(474).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT ALWAYS LEAVE A FAINT SCENT TRAIL",
+        "image_path": "img(475).jpg",
+        "section": 1
+    },
+    {
+        "question": "POWER MIMICRY BUT MIMICRY FADES QUICKLY",
+        "image_path": "img(476).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT SWEAT CONSTANTLY",
+        "image_path": "img(477).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TIME BUT EXPERIENCE TIME LOOPS AT RANDOM",
+        "image_path": "img(478).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME TRAVEL BUT RISK BECOMING STUCK IN TIME LOOPS",
+        "image_path": "img(479).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFTING BUT MUST CONSUME WHAT YOU MIMIC",
+        "image_path": "img(480).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL ELEMENTS BUT THEIR LIMITS",
+        "image_path": "img(481).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO BREATHE UNDERWATER",
+        "image_path": "img(482).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL PLANTS BUT BECOME ALLERGIC TO POLLEN",
+        "image_path": "img(483).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL MINDS BUT SUFFER MIGRAINES",
+        "image_path": "img(484).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE, BUT IT CONSUMES YOUR ENERGY",
+        "image_path": "img(485).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TIME BUT ERASE MEMORIES",
+        "image_path": "img(486).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT RANDOM TELEPORTATION LOCATIONS",
+        "image_path": "img(487).jpg",
+        "section": 1
+    },
+    {
+        "question": "PRECOGNITION BUT NIGHTMARES ONLY",
+        "image_path": "img(488).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH BUT CLUMSY AND BREAK THINGS EASILY",
+        "image_path": "img(489).jpg",
+        "section": 1
+    },
+    {
+        "question": "SPEAK TO ANIMALS BUT HEAR DISTRESS",
+        "image_path": "img(490).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER HEARING BUT CONSTANT NOISE",
+        "image_path": "img(491).jpg",
+        "section": 1
+    },
+    {
+        "question": "FLY BUT AGE ACCELERATES WHILE FLYING",
+        "image_path": "img(492).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL DREAMS, BUT THEY ALL TURN INTO NIGHTMARES",
+        "image_path": "img(493).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT PERMANENTLY LOSE VOICE",
+        "image_path": "img(494).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL PLANTS BUT CRAVE SUNLIGHT",
+        "image_path": "img(495).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPER INTELLIGENCE BUT STRUGGLE SOCIALLY",
+        "image_path": "img(496).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL SOUND BUT NOISE SENSITIVITY",
+        "image_path": "img(497).jpg",
+        "section": 1
+    },
+    {
+        "question": "READ MINDS BUT CAN'T UNDERSTAND THE THOUGHTS YOU HEAR",
+        "image_path": "img(498).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK ALL LANGUAGES BUT GIBBERISH",
+        "image_path": "img(499).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME TRAVEL BUT BLINDNESS",
+        "image_path": "img(500).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPERHUMAN STRENGTH BUT UNCONTROLLABLE MUSCLE SPASMS",
+        "image_path": "img(501).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME MANIPULATION BUT FRAGMENTED MEMORIES",
+        "image_path": "img(502).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ICE BUT CREATE ICEBERGS UNINTENTIONALLY",
+        "image_path": "img(503).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEKINESIS BUT IT CAUSES SEVERE MIGRAINES",
+        "image_path": "img(504).jpg",
+        "section": 1
+    },
+    {
+        "question": "BE ABLE TO INSTANTLY LEARN ANY SKILL",
+        "image_path": "img(505).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL EMOTIONS BUT FEEL DOUBLE",
+        "image_path": "img(506).jpg",
+        "section": 1
+    },
+    {
+        "question": "POSSESS X-RAY VISION BUT SEE THROUGH WALLS UNINTENTIONALLY",
+        "image_path": "img(507).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT BUT APPEAR DISHEVELED",
+        "image_path": "img(508).jpg",
+        "section": 1
+    },
+    {
+        "question": "SHAPE-SHIFTING BUT YOU LOSE YOUR ORIGINAL IDENTITY",
+        "image_path": "img(509).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL MINDS BUT THEY CONTROL YOUR EMOTIONS",
+        "image_path": "img(510).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPATHY BUT HEAR FEARS",
+        "image_path": "img(511).jpg",
+        "section": 2
+    },
+    {
+        "question": "HAVE INVULNERABILITY TO HARM",
+        "image_path": "img(512).jpg",
+        "section": 1
+    },
+    {
+        "question": "SUPERHUMAN STRENGTH BUT STRUGGLE TO CONTROL YOUR STRENGTH",
+        "image_path": "img(513).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPATHY BUT HEAR CHAOS",
+        "image_path": "img(514).jpg",
+        "section": 1
+    },
+    {
+        "question": "POWER SHARING BUT RECEIVE PAIN",
+        "image_path": "img(515).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME TRAVEL BUT FREEZE",
+        "image_path": "img(516).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT LOSE MEMORIES UPON ARRIVAL",
+        "image_path": "img(517).jpg",
+        "section": 2
+    },
+    {
+        "question": "TIME TRAVEL, BUT CAN'T INTERACT, ONLY OBSERVE",
+        "image_path": "img(518).jpg",
+        "section": 1
+    },
+    {
+        "question": "MIND CONTROL BUT OVERWHELMING EMPATHY",
+        "image_path": "img(519).jpg",
+        "section": 2
+    },
+    {
+        "question": "SPEAK ALL LANGUAGES BUT YOU CAN'T UNDERSTAND ANY",
+        "image_path": "img(520).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ICE BUT SUFFER FROM CHRONIC FROSTBITE",
+        "image_path": "img(521).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH BUT SHATTER GLASS",
+        "image_path": "img(522).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT VISIBLE BREATH",
+        "image_path": "img(523).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT SNEEZE LOUDLY",
+        "image_path": "img(524).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT IT DISRUPTS YOUR RELATIONSHIPS",
+        "image_path": "img(525).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL FIRE BUT FEAR OWN IMMOLATION",
+        "image_path": "img(526).jpg",
+        "section": 1
+    },
+    {
+        "question": "TIME MANIPULATION BUT YOU AGE WITH EACH USE",
+        "image_path": "img(527).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER STRENGTH BUT BRITTLE BONES",
+        "image_path": "img(528).jpg",
+        "section": 1
+    },
+    {
+        "question": "READ MINDS BUT CAN'T LIE",
+        "image_path": "img(529).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER SPEED BUT RANDOM TEMPORAL JUMPS",
+        "image_path": "img(530).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL PLANTS BUT CAN'T STOP THEM FROM GROWING",
+        "image_path": "img(531).jpg",
+        "section": 2
+    },
+    {
+        "question": "CONTROL EMOTIONS BUT APATHY",
+        "image_path": "img(532).jpg",
+        "section": 1
+    },
+    {
+        "question": "INVISIBILITY BUT CAUSE EERIE DISTURBANCES WHEN INVISIBLE",
+        "image_path": "img(533).jpg",
+        "section": 2
+    },
+    {
+        "question": "MIND CONTROL BUT LOSE OWN MEMORIES",
+        "image_path": "img(534).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT LOSE YOUR SENSE OF TIME",
+        "image_path": "img(535).jpg",
+        "section": 2
+    },
+    {
+        "question": "TELEPORT ANYWHERE BUT RANDOM TELEPORTATION DESTINATIONS",
+        "image_path": "img(536).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL ELECTRICITY BUT DISRUPT ELECTRONICS CONSTANTLY",
+        "image_path": "img(537).jpg",
+        "section": 2
+    },
+    {
+        "question": "INVISIBILITY BUT GLOW SLIGHTLY",
+        "image_path": "img(538).jpg",
+        "section": 1
+    },
+    {
+        "question": "TELEPORT BUT ARRIVE BLINDFOLDED",
+        "image_path": "img(539).jpg",
+        "section": 2
+    }
+]

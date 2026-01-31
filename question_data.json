@@ -1,0 +1,22 @@
+[
+    {
+        "question": "HAVE THE POWER TO CONTROL FRICTION",
+        "image_path": "img(1).jpg",
+        "section": 2
+    },
+    {
+        "question": "MIND READING BUT IT MAKES YOU PARANOID",
+        "image_path": "img(2).jpg",
+        "section": 1
+    },
+    {
+        "question": "CONTROL TECHNOLOGY BUT ATTRACT MALFUNCTIONS",
+        "image_path": "img(3).jpg",
+        "section": 2
+    },
+    {
+        "question": "SUPER INTELLIGENCE BUT INSOMNIA WORSENS",
+        "image_path": "img(4).jpg",
+        "section": 1
+    }
+]
